@@ -1,0 +1,33 @@
+{
+	"id": "3e4069fa-ae16-4ebd-b209-65fc2f018872",
+	"name": "FreeCodeEnvironment",
+	"values": [
+		{
+			"key": "accessToken",
+			"value": "b3af7fffee0a379ba5a3ba60c028e618c323877ea0200cc04ed4a12450d2d1f3",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "myBookId",
+			"value": "5",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "myOrderId2",
+			"value": "H-u5ewDGLObqmj7TL_5TH",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "myOrderId",
+			"value": "mkaJM2zgCLSrKKBxoQtDf",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-09-09T11:26:18.486Z",
+	"_postman_exported_using": "Postman/10.17.8-230905-0807"
+}
